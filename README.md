@@ -35,6 +35,9 @@ Input MRI → VAE Encoder → Latent Space → Diffusion U-Net → VAE Decoder �
                                          Tumor Mask (ControlNet)
 ```
 
+<img width="1676" height="993" alt="CLDM" src="https://github.com/user-attachments/assets/d9c5435a-f3f0-4042-b9ea-ec8dcccf9aff" />
+
+
 ---
 
 ## Results
